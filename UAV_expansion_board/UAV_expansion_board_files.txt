@@ -1,5 +1,5 @@
 UAV expansion board, created for SSU Senior Design project to support IR LED beacons and deck expansion for Bitcraze Crazyflie quadcopter
 
- 1. Schematic file
- 2. PCB layout file
+ 1. Schematic file (Eagle file format)
+ 2. PCB layout file (Eagle file format)
  3. PCB layout image
